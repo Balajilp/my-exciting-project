@@ -1,1 +1,1 @@
-print('Hajimemashite sekai!')
+# This is an awesome script
