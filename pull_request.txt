@@ -1,0 +1,21 @@
+PR Title: (hot)/ FEAPP-420: Allow customer notification via WhatsApp
+
+DESCRIPTION: 
+Customers have been requesting the ability to get
+notified about product updates via their WhatsApp number.
+
+WHAT:
+Creating a optional button allow notification to whatsapp number also.
+
+WHY:
+This mode of notification is optional, but if specified, should cause
+notifications to go out both on their emails as well as WhatsApp numbers.
+
+NOTES:
+We need to ship this feature to the customer in the Q3 as our results can be
+influenced by this feature.
+
+PR REVIEWERS:
+Tapas Das
+Jayasurya
+Nireeksha
