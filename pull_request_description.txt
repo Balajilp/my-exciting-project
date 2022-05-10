@@ -1,0 +1,4 @@
+Title: Allow customer notification via WhatsApp
+Decription:
+Customers have been requesting the ability to get
+notified about product updates via their WhatsApp number.
